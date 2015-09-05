@@ -1,0 +1,4 @@
+coloredlogs==1.0.1
+flask
+flask_restful
+redis
